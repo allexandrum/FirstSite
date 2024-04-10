@@ -5,8 +5,13 @@ header{
 main {
     padding: 10px;
     background-color: silver;
+    font-family: "Comfortaa";
  }
  
+ .sliderimg{
+   height: 300px;
+   width: 100%;
+ }
  .post {
     background-color: white;
     padding: 20px;
